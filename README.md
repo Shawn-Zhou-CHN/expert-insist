@@ -78,6 +78,8 @@ mkdir -p skills/expert-insist
 # Copy SKILL.md to skills/expert-insist/SKILL.md
 ```
 
+**Auto-trigger**: The skill activates automatically when the user asks opinion-based questions (e.g., "what should I do", "which is better", "analyze this"). No manual invocation needed.
+
 ### For Other AI Frameworks
 
 The skill is a pure prompt pattern — no API keys, no dependencies. Copy the methodology from `SKILL.md` into your system prompt or agent instructions.
